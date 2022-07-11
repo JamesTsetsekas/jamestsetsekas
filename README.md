@@ -35,6 +35,6 @@
 </div>
 
  <div align="center" style="display:flex, flex-direction:row">
-	<a href="mailto:james@jamestsetsekas.com"  target="_blank"> <img src="https://img.shields.io/badge/Email%3A-James%40JamesTsetsekas.com-lightgrey"> </a>
+	<a href="mailto:james@jamestsetsekas.com"  target="_blank"> <img src="https://img.shields.io/badge/Email: James@JamesTsetsekas.com-000000?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </div>
 </div>
