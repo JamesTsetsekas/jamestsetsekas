@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm James Tsetsekas</h1>
+<h1 align="center">👋 Hi , I'm James Tsetsekas</h1>
 <h3 align="center"> Front-End Engineer and Designer</h3>
 
 
