@@ -24,6 +24,7 @@
 	<img src="https://img.shields.io/badge/composer-414042?style=for-the-badge&logo=composer&logoColor=ffffff" />
 	<img src="https://img.shields.io/badge/CakePHP-414042?style=for-the-badge&logo=cakephp&logoColor=d43d44" />
 	<img src="https://img.shields.io/badge/Wordpress-26596f?style=for-the-badge&logo=wordpress&logoColor=ffffff" />
+	<br>
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
 	<br>
