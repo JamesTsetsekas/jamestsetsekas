@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">👋 Hi , I'm James Tsetsekas</h1>
-<h3 align="center"> Front-End Engineer and Designer</h3>
+<h3 align="center">Full Stack Web Developer.</h3>
 
 
 ### Languages
@@ -18,6 +18,7 @@
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/CakePHP-414042?style=for-the-badge&logo=cakephp&logoColor=d43d44" />
 	<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
