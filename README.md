@@ -33,8 +33,13 @@
 	<img src="https://img.shields.io/badge/NGINX-333?style=for-the-badge&logo=nginx&logoColor=009137" />
 	<img src="https://img.shields.io/badge/MYSQL-333?style=for-the-badge&logo=mysql&logoColor=f7a017" />
 	<br>
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/powershell-333?style=for-the-badge&logo=powershell&logoColor=256db8" />
 	<img src="https://img.shields.io/badge/Windows-333?style=for-the-badge&logo=windows&logoColor=fff" />
+	<br>
+	<img src="https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white" />
 </div>
  
 ### Design
