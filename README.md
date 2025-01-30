@@ -27,6 +27,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+	<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 	<br>
 	<img src="https://img.shields.io/badge/ubuntu-444?style=for-the-badge&logo=ubuntu&logoColor=f47421" />
 	<img src="https://img.shields.io/badge/NGINX-333?style=for-the-badge&logo=nginx&logoColor=009137" />
