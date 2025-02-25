@@ -7,9 +7,9 @@
 <div align="center" style="display:flex, flex-direction:row">
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB3" />
+	<img src="https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=4B8BBE" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-	<img src="https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=4B8BBE" />
 </div>
 
 
@@ -23,6 +23,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/composer-414042?style=for-the-badge&logo=composer&logoColor=ffffff" />
 	<img src="https://img.shields.io/badge/CakePHP-414042?style=for-the-badge&logo=cakephp&logoColor=d43d44" />
+	<img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white" />
 	<img src="https://img.shields.io/badge/Wordpress-26596f?style=for-the-badge&logo=wordpress&logoColor=ffffff" />
 	<br>
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -53,6 +54,7 @@
  <div align="center" style="display:flex, flex-direction:row">
 	<a href="https://twitter.com/JamesTsetsekas"  target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a> 
 	<a href="https://www.jamestsetsekas.com/"  target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a>
+	<a href="https://blog.jamestsetsekas.com/"  target="_blank"> <img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a>
 	<a href="https://www.linkedin.com/in/jamestsetsekas/"  target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
 
