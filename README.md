@@ -2,6 +2,13 @@
 <h1 align="center">👋 Hi , I'm James Tsetsekas</h1>
 <h3 align="center">Full Stack Web Developer.</h3>
 
+### GitHub Streak
+<div align="center">
+	<a href="https://git.io/streak-stats" target="_blank">
+		<img src="https://streak-stats.demolab.com/?user=JamesTsetsekas&theme=dark&hide_border=true" alt="GitHub Streak" />
+	</a>
+</div>
+
 
 ### Languages
 <div align="center" style="display:flex, flex-direction:row">
