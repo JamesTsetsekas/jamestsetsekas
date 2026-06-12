@@ -33,12 +33,11 @@
 
 | Project | Why it matters | Stack |
 | --- | --- | --- |
+| [Jersey City Bitcoin](https://github.com/Jersey-City-Bitcoin/JerseyCityBitcoin) | Community site for the Jersey City Bitcoin Meetup and Socratic Seminar. | Bitcoin |
+| [Fintech Analytics Suite](https://github.com/JamesTsetsekas/Fintech) | Bitcoin on-chain and market-cycle analytics, including Power Law, Pi Cycle, Rainbow, halving analysis, and ML-based price tools. | Python, matplotlib, pandas |
 | [Digital Securities Settlement](https://github.com/JamesTsetsekas/digital-securities-settlement) | Atomic DvP settlement engine for tokenized securities with KYC, compliance, role-based controls, and CCP-gated workflows. | Solidity, Hardhat, OpenZeppelin, ethers.js |
 | [Bond Settlement on DAML](https://github.com/JamesTsetsekas/bond-settlement-daml) | Multi-party bond issuance, trade matching, and atomic settlement modeled around clearing and custody workflows. | DAML, Canton |
-| [Fintech Analytics Suite](https://github.com/JamesTsetsekas/Fintech) | Bitcoin on-chain and market-cycle analytics, including Power Law, Pi Cycle, Rainbow, halving analysis, and ML-based price tools. | Python, matplotlib, pandas |
-| [pWallet](https://github.com/JamesTsetsekas/pWallet) | Phoenix Server UI for working with self-custodial Lightning payment infrastructure. | Phoenixd, Bitcoin, Lightning |
-| [Jersey City Bitcoin](https://github.com/JamesTsetsekas/JerseyCityBitcoin2.0) | Community site for the Jersey City Bitcoin Meetup and Socratic Seminar. | React, JavaScript, Bitcoin |
-
+| Satmo | Lightning network Self custodial E-Commerce Plugins for Wordpress, Wix, Shopify. | Bitcoin, Lightning, Phoenixd, NOSTR |
 ## Tech Stack
 
 <div align="center">
