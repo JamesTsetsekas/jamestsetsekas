@@ -42,6 +42,7 @@
 | Project | Why it matters | Stack |
 | --- | --- | --- |
 | [Conduit](https://conduit.market/) ([GitHub](https://github.com/Conduit-BTC)) | Open-source peer-to-peer commerce where products, orders, identity, and payments use Nostr and Bitcoin Lightning without platform custody of funds or user data. | TypeScript, React, Nostr, Bitcoin Lightning |
+| [Codex Reset Guard](https://github.com/JamesTsetsekas/CodexResetGuard) ([Download](https://github.com/JamesTsetsekas/CodexResetGuard/releases/latest)) | Opt-in Windows tray app that redeems selected, existing banked Codex resets at a chosen usage threshold, with earliest-expiry selection, a reset allowance, and persistent recovery. | C#, WinForms, .NET Framework |
 | [nos2x Auto Approver](https://github.com/JamesTsetsekas/nos2x-auto-approver) | Chromium signer fork for repeatable Nostr development and QA, with explicit host allowlists for unattended NIP-07 flows and standard prompts everywhere else. | JavaScript, Chrome Extensions, NIP-07 |
 | [Jersey City Bitcoin](https://github.com/Jersey-City-Bitcoin/JerseyCityBitcoin) | Community site for the Jersey City Bitcoin Meetup and Socratic Seminar. | Bitcoin |
 | [Fintech Analytics Suite](https://github.com/JamesTsetsekas/Fintech) | Bitcoin on-chain and market-cycle analytics, including Power Law, Pi Cycle, Rainbow, halving analysis, and ML-based price tools. | Python, matplotlib, pandas |
