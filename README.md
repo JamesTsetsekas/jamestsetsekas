@@ -117,7 +117,9 @@
     <img src="https://img.shields.io/badge/Lightning-3A344A?style=for-the-badge&logo=lightning&logoColor=C69BFF" alt="Lightning" height="32" />
     <img src="https://img.shields.io/badge/Ethereum-3A344A?style=for-the-badge&logo=ethereum&logoColor=C4C8FF" alt="Ethereum" height="32" />
     <img src="https://img.shields.io/badge/Nostr-3A344A?style=for-the-badge&logo=nostr&logoColor=C0A4FF" alt="Nostr" height="32" />
+    <br/><br/>
     <img src="https://img.shields.io/badge/LNbits-3A344A?style=for-the-badge" alt="LNbits" height="32" />
+    <img src="https://img.shields.io/badge/BTCPay_Server-3A344A?style=for-the-badge" alt="BTCPay Server" height="32" />
     <img src="https://img.shields.io/badge/Hardhat-3A344A?style=for-the-badge&logo=hardhat&logoColor=FFF100" alt="Hardhat" height="32" />
   </p>
   <p>
