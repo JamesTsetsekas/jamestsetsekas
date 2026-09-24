@@ -75,6 +75,7 @@
     <img src="https://img.shields.io/badge/Python-27384B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" height="32" />
     <img src="https://img.shields.io/badge/PHP-27384B?style=for-the-badge&logo=php&logoColor=B9BCE8" alt="PHP" height="32" />
     <img src="https://img.shields.io/badge/C%23-27384B?style=for-the-badge&logo=csharp&logoColor=C69BFF" alt="C#" height="32" />
+    <img src="https://img.shields.io/badge/SQL-27384B?style=for-the-badge" alt="SQL" height="32" />
     <br/><br/>
     <img src="https://img.shields.io/badge/C-27384B?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" height="32" />
     <img src="https://img.shields.io/badge/C%2B%2B-27384B?style=for-the-badge&logo=cplusplus&logoColor=8CB8E8" alt="C++" height="32" />
@@ -89,6 +90,7 @@
     <img src="https://img.shields.io/badge/React_Native-254345?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="32" />
     <img src="https://img.shields.io/badge/Next.js-254345?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" height="32" />
     <img src="https://img.shields.io/badge/Astro-254345?style=for-the-badge&logo=astro&logoColor=FF957A" alt="Astro" height="32" />
+    <img src="https://img.shields.io/badge/Blazor-254345?style=for-the-badge&logo=blazor&logoColor=C6A9FF" alt="Blazor" height="32" />
     <br/><br/>
     <img src="https://img.shields.io/badge/Node.js-254345?style=for-the-badge&logo=nodedotjs&logoColor=9AD15B" alt="Node.js" height="32" />
     <img src="https://img.shields.io/badge/.NET-254345?style=for-the-badge&logo=dotnet&logoColor=C6A9FF" alt=".NET" height="32" />
@@ -103,7 +105,6 @@
     <img src="https://img.shields.io/badge/MongoDB-333F49?style=for-the-badge&logo=mongodb&logoColor=70D08B" alt="MongoDB" height="32" />
     <img src="https://img.shields.io/badge/Redis-333F49?style=for-the-badge&logo=redis&logoColor=FF7676" alt="Redis" height="32" />
     <br/><br/>
-    <img src="https://img.shields.io/badge/Firebase-333F49?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" height="32" />
     <img src="https://img.shields.io/badge/Docker-333F49?style=for-the-badge&logo=docker&logoColor=66C4F4" alt="Docker" height="32" />
     <img src="https://img.shields.io/badge/Linux-333F49?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" height="32" />
     <img src="https://img.shields.io/badge/NGINX-333F49?style=for-the-badge&logo=nginx&logoColor=6BD58D" alt="NGINX" height="32" />
@@ -111,6 +112,13 @@
     <img src="https://img.shields.io/badge/Bash-333F49?style=for-the-badge&logo=gnubash&logoColor=9EC7A8" alt="Bash" height="32" />
     <img src="https://img.shields.io/badge/PowerShell-333F49?style=for-the-badge&logo=powershell&logoColor=8DC4FF" alt="PowerShell" height="32" />
     <img src="https://img.shields.io/badge/GitHub_Actions-333F49?style=for-the-badge&logo=githubactions&logoColor=8CB6FF" alt="GitHub Actions" height="32" />
+  </p>
+  <p>
+    <sub><strong>CLOUD</strong></sub><br/>
+    <img src="https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge" alt="AWS" height="32" />
+    <img src="https://img.shields.io/badge/Azure-2C3E50?style=for-the-badge" alt="Microsoft Azure" height="32" />
+    <img src="https://img.shields.io/badge/Google_Cloud-2C3E50?style=for-the-badge&logo=googlecloud&logoColor=9FC8FF" alt="Google Cloud" height="32" />
+    <img src="https://img.shields.io/badge/Firebase-2C3E50?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" height="32" />
   </p>
   <p>
     <sub><strong>PROTOCOLS & PAYMENTS</strong></sub><br/>
