@@ -20,6 +20,10 @@
 	</p>
 </div>
 
+<div align="center">
+	<img src="./assets/codex-activity.svg" alt="Codex activity card showing lifetime tokens, current streak, and peak daily tokens." width="880" />
+</div>
+
 ## Current Roles
 
 | Organization | Role | Focus |
