@@ -17,6 +17,9 @@
 		<a href="mailto:james@jamestsetsekas.com">
 			<img src="https://img.shields.io/badge/Email-4D4D4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 		</a>
+		<a href="#zap-me-some-sats">
+			<img src="https://img.shields.io/badge/Zap_sats-9A4D12?style=for-the-badge&logo=lightning&logoColor=FFD166" alt="Zap sats" />
+		</a>
 	</p>
 </div>
 
@@ -28,8 +31,15 @@
 
 | Organization | Role | Focus |
 | --- | --- | --- |
-| [Great Plains Communications](https://gpcom.com/) / [Rightfiber](https://www.rightfiber.com/) | Web & Digital Experience Developer | Building and improving React applications for customer-facing digital experiences. |
+| [Great Plains Communications](https://gpcom.com/) / [Rightfiber](https://www.rightfiber.com/) | Web & Digital Experience Developer | Building React applications and customer-facing journeys for the Rightfiber web experience. |
 | [Conduit](https://conduit.market/) | Product Engineer | Building marketplace and merchant experiences for open-source commerce on Nostr with Bitcoin and Lightning. |
+
+## Earlier Product Work
+
+| Product | Contribution |
+| --- | --- |
+| Satmo | Built Lightning payment integrations for WooCommerce, Wix, and Shopify, including merchant checkout flows and Phoenixd-backed payment services. |
+| OLM Foods / RightBytes | Led development of food-ordering experiences for customers and stores, including kiosks, digital signage, payment and delivery integrations; also built B2B ordering tools with WooCommerce. |
 
 ## What I Build
 
@@ -53,6 +63,7 @@
 | [Digital Securities Settlement](https://github.com/JamesTsetsekas/digital-securities-settlement) | Atomic DvP settlement engine for tokenized securities with KYC, compliance, role-based controls, and CCP-gated workflows. | Solidity, Hardhat, OpenZeppelin, ethers.js |
 | [Bond Settlement on DAML](https://github.com/JamesTsetsekas/bond-settlement-daml) | Multi-party bond issuance, trade matching, and atomic settlement modeled around clearing and custody workflows. | DAML, Canton |
 | [LNbits Wallet Manager Skill](https://github.com/JamesTsetsekas/openclaw-skill-lnbits) | Agent skill for LNbits balance, invoice, payment, and QR-code workflows with explicit confirmation and credential-safety rules. | Python, LNbits, Lightning |
+| [Self-hosted Bitcoin & Lightning stack](https://blog.jamestsetsekas.com/posts/rotate-lnd-macaroons-on-umbrel-after-btcpay-security-update/) | Run BTCPay Server, LND, and LNbits; document credential rotation, TLS recovery, and Bitcoin node maintenance. | BTCPay Server, LND, LNbits, Umbrel |
 
 ## Tech Stack
 
@@ -114,4 +125,12 @@
     <img src="https://img.shields.io/badge/Claude-383546?style=for-the-badge&logo=anthropic&logoColor=E7A588" alt="Claude" height="32" />
     <img src="https://img.shields.io/badge/Gemini-383546?style=for-the-badge&logo=googlegemini&logoColor=C8B8FF" alt="Gemini" height="32" />
   </p>
+</div>
+
+## Zap me some sats
+
+<div align="center">
+  <p>If my work helped you, send a few sats over Lightning.</p>
+  <img src="./assets/lightning-tip-qr.png" alt="QR code for Lightning address james@btc.jamestsetsekas.com" width="180" />
+  <p>Lightning address: <code>james@btc.jamestsetsekas.com</code></p>
 </div>
