@@ -92,8 +92,11 @@
     <img src="https://img.shields.io/badge/Firebase-333F49?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" height="32" />
     <img src="https://img.shields.io/badge/Docker-333F49?style=for-the-badge&logo=docker&logoColor=66C4F4" alt="Docker" height="32" />
     <img src="https://img.shields.io/badge/Linux-333F49?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" height="32" />
-    <img src="https://img.shields.io/badge/PowerShell-333F49?style=for-the-badge&logo=powershell&logoColor=8DC4FF" alt="PowerShell" height="32" />
     <img src="https://img.shields.io/badge/NGINX-333F49?style=for-the-badge&logo=nginx&logoColor=6BD58D" alt="NGINX" height="32" />
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Bash-333F49?style=for-the-badge&logo=gnubash&logoColor=9EC7A8" alt="Bash" height="32" />
+    <img src="https://img.shields.io/badge/PowerShell-333F49?style=for-the-badge&logo=powershell&logoColor=8DC4FF" alt="PowerShell" height="32" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-333F49?style=for-the-badge&logo=githubactions&logoColor=8CB6FF" alt="GitHub Actions" height="32" />
   </p>
   <p>
     <sub><strong>PROTOCOLS & PAYMENTS</strong></sub><br/>
