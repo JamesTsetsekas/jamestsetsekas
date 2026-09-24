@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="264" viewBox="0 0 880 264" role="img" aria-labelledby="title description">
   <title id="title">Codex activity</title>
-  <desc id="description">Lifetime tokens, current streak, and peak daily tokens. Manually refreshed 2026-09-24.</desc>
+  <desc id="description">Lifetime tokens, current streak, and peak daily tokens. Refreshed 2026-09-24.</desc>
   <defs>
     <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1419"/>
@@ -49,5 +49,5 @@
 
   <text x="41" y="246" fill="#6f9896" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">HUMAN DIRECTION  /  MACHINE SCALE</text>
   <circle cx="713" cy="242" r="3" fill="#8fe7c2"/>
-  <text id="refresh-state" x="848" y="246" text-anchor="end" fill="#84aaa3" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">MANUALLY REFRESHED</text>
+  <text id="refresh-state" x="848" y="246" text-anchor="end" fill="#84aaa3" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">DAILY SYNC</text>
 </svg>
