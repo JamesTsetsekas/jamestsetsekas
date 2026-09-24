@@ -7,16 +7,16 @@
 	<p>
 		<a href="https://jamestsetsekas.com/">
 			<img src="https://img.shields.io/badge/Portfolio-2B3A40?style=for-the-badge&logo=googlechrome&logoColor=9ADFEA" alt="Portfolio" />
-		</a>
+		</a>&ensp;
 		<a href="https://blog.jamestsetsekas.com/">
 			<img src="https://img.shields.io/badge/Blog-2B3A40?style=for-the-badge&logo=rss&logoColor=9ADFEA" alt="Blog" />
-		</a>
+		</a>&ensp;
 		<a href="https://www.linkedin.com/in/jamestsetsekas/">
 			<img src="https://img.shields.io/badge/LinkedIn-2B3A40?style=for-the-badge&logo=linkedin&logoColor=9ADFEA" alt="LinkedIn" />
-		</a>
+		</a>&ensp;
 		<a href="mailto:james@jamestsetsekas.com">
 			<img src="https://img.shields.io/badge/Email-2B3A40?style=for-the-badge&logo=gmail&logoColor=9ADFEA" alt="Email" />
-		</a>
+		</a>&ensp;
 		<a href="#zap-me-some-sats">
 			<img src="https://img.shields.io/badge/Zap_sats-2B3A40?style=for-the-badge&logo=lightning&logoColor=FFD166" alt="Zap sats" />
 		</a>
