@@ -87,9 +87,11 @@
     <img src="https://img.shields.io/badge/React-254345?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="32" />
     <img src="https://img.shields.io/badge/React_Native-254345?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="32" />
     <img src="https://img.shields.io/badge/Next.js-254345?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" height="32" />
+    <img src="https://img.shields.io/badge/Astro-254345?style=for-the-badge&logo=astro&logoColor=FF957A" alt="Astro" height="32" />
+    <br/><br/>
     <img src="https://img.shields.io/badge/Node.js-254345?style=for-the-badge&logo=nodedotjs&logoColor=9AD15B" alt="Node.js" height="32" />
     <img src="https://img.shields.io/badge/.NET-254345?style=for-the-badge&logo=dotnet&logoColor=C6A9FF" alt=".NET" height="32" />
-    <img src="https://img.shields.io/badge/Astro-254345?style=for-the-badge&logo=astro&logoColor=FF957A" alt="Astro" height="32" />
+    <img src="https://img.shields.io/badge/ASP.NET_Core-254345?style=for-the-badge&logo=dotnet&logoColor=C6A9FF" alt="ASP.NET Core" height="32" />
     <img src="https://img.shields.io/badge/Laravel-254345?style=for-the-badge&logo=laravel&logoColor=FF756B" alt="Laravel" height="32" />
     <img src="https://img.shields.io/badge/WordPress-254345?style=for-the-badge&logo=wordpress&logoColor=8AC8E8" alt="WordPress" height="32" />
   </p>
