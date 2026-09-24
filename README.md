@@ -54,17 +54,52 @@
 | [Bond Settlement on DAML](https://github.com/JamesTsetsekas/bond-settlement-daml) | Multi-party bond issuance, trade matching, and atomic settlement modeled around clearing and custody workflows. | DAML, Canton |
 | [LNbits Wallet Manager Skill](https://github.com/JamesTsetsekas/openclaw-skill-lnbits) | Agent skill for LNbits balance, invoice, payment, and QR-code workflows with explicit confirmation and credential-safety rules. | Python, LNbits, Lightning |
 
-## Engineering Toolkit
+## Tech Stack
 
-I build from product idea to deployed system across web products, desktop tools, open protocols, and financial data. My current core is TypeScript/JavaScript, React, Python, and C#/.NET. AI-assisted workflows help me move across stacks quickly while I own architecture, security, validation, and the shipped result.
-
-| Domain | Representative tools | Work |
-| --- | --- | --- |
-| Web products | TypeScript/JavaScript, React, Next.js, Node.js, Astro, PHP/WordPress | [Conduit](https://conduit.market/), [gblog](https://github.com/JamesTsetsekas/gblog), [Jersey City Bitcoin](https://github.com/Jersey-City-Bitcoin/JerseyCityBitcoin) |
-| Desktop tools & automation | C#/.NET, Python, PowerShell, Linux, Docker | [Codex Reset Guard](https://github.com/JamesTsetsekas/CodexResetGuard), [pWallet](https://github.com/JamesTsetsekas/pWallet), [LNbits Wallet Manager](https://github.com/JamesTsetsekas/openclaw-skill-lnbits) |
-| Open protocols & payments | Nostr/NDK, Bitcoin Lightning, LNbits, LND, Phoenixd | [Conduit](https://conduit.market/), [nos2x Auto Approver](https://github.com/JamesTsetsekas/nos2x-auto-approver) |
-| Data & financial systems | Python, pandas, matplotlib, Solidity/Hardhat, DAML/Canton | [Fintech Analytics Suite](https://github.com/JamesTsetsekas/Fintech), [Digital Securities Settlement](https://github.com/JamesTsetsekas/digital-securities-settlement), [Bond Settlement on DAML](https://github.com/JamesTsetsekas/bond-settlement-daml) |
-
-**Broader foundations:** Earlier projects gave me hands-on experience with C, C++, and Java. I have also built a [React Native Bitcoin price app](https://github.com/JamesTsetsekas/Bitcoin-Price-App).
-
-**AI in the loop:** I use Codex, Claude, and Gemini for research, prototyping, implementation, and review, then use tests, code review, and operational checks to make the result dependable.
+<div align="center">
+	<p>
+		<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+		<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+		<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=4B8BBE" alt="Python" />
+		<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+		<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+		<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+		<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+		<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB3" alt="PHP" />
+		<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+		<img src="https://img.shields.io/badge/DAML-111111?style=for-the-badge" alt="DAML" />
+	</p>
+	<p>
+		<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+		<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+		<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+		<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+		<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+		<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+		<img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+		<img src="https://img.shields.io/badge/WordPress-26596F?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+	</p>
+	<p>
+		<img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+		<img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=F7A017" alt="MySQL" />
+		<img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+		<img src="https://img.shields.io/badge/Redis-333333?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
+		<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+		<img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+		<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+		<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+		<img src="https://img.shields.io/badge/NGINX-333333?style=for-the-badge&logo=nginx&logoColor=009137" alt="NGINX" />
+	</p>
+	<p>
+		<img src="https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+		<img src="https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning" />
+		<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+		<img src="https://img.shields.io/badge/Nostr-7B61FF?style=for-the-badge&logo=nostr&logoColor=white" alt="Nostr" />
+		<img src="https://img.shields.io/badge/LNbits-111111?style=for-the-badge" alt="LNbits" />
+		<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
+		<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+		<img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+		<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+		<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+	</p>
+</div>
