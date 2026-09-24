@@ -78,6 +78,7 @@
     <br/><br/>
     <img src="https://img.shields.io/badge/C-27384B?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" height="32" />
     <img src="https://img.shields.io/badge/C%2B%2B-27384B?style=for-the-badge&logo=cplusplus&logoColor=8CB8E8" alt="C++" height="32" />
+    <img src="https://img.shields.io/badge/Go-27384B?style=for-the-badge&logo=go&logoColor=7FD9E8" alt="Go (Golang)" height="32" />
     <img src="https://img.shields.io/badge/Java-27384B?style=for-the-badge&logo=openjdk&logoColor=FFAE52" alt="Java" height="32" />
     <img src="https://img.shields.io/badge/Solidity-27384B?style=for-the-badge&logo=solidity&logoColor=D1D6DD" alt="Solidity" height="32" />
     <img src="https://img.shields.io/badge/DAML-27384B?style=for-the-badge" alt="DAML" height="32" />
