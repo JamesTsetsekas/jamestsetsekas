@@ -1,9 +1,10 @@
 /**
- * Manual refresh only. Run from a machine signed in to Codex:
+ * Refresh from a machine signed in to Codex:
  *   node scripts/update-codex-card.mjs
  *
  * This reads aggregate usage through the local Codex app-server and updates
- * assets/codex-activity.svg. It does not schedule itself, commit, or push.
+ * assets/codex-activity.svg. The Raspberry Pi cron job handles scheduling and
+ * publishing; this script only updates the SVG.
  */
 import { spawn } from 'node:child_process';
 import { readFile, writeFile } from 'node:fs/promises';
@@ -93,7 +94,7 @@ function replaceText(svg, id, value) {
 function updateDescription(svg, date) {
   return svg.replace(
     /(<desc id="description">)[^<]*(<\/desc>)/,
-    `$1Lifetime tokens, current streak, and peak daily tokens. Manually refreshed ${date}.$2`,
+    `$1Lifetime tokens, current streak, and peak daily tokens. Refreshed ${date}.$2`,
   );
 }
 
@@ -113,7 +114,7 @@ async function main() {
   svg = replaceText(svg, 'streak-count', String(streak));
   svg = replaceText(svg, 'peak-count', compact(peak));
   svg = replaceText(svg, 'updated-at', `REFRESHED · ${dateLabel}`);
-  svg = replaceText(svg, 'refresh-state', 'MANUALLY REFRESHED');
+  svg = replaceText(svg, 'refresh-state', 'DAILY SYNC');
   svg = updateDescription(svg, isoDate);
   await writeFile(cardUrl, svg, 'utf8');
   console.log(`Updated ${fileURLToPath(cardUrl)}. Review and commit it when ready.`);
