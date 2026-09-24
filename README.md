@@ -57,49 +57,58 @@
 ## Tech Stack
 
 <div align="center">
-	<p>
-		<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-		<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-		<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=4B8BBE" alt="Python" />
-		<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-		<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-		<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-		<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-		<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB3" alt="PHP" />
-		<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-		<img src="https://img.shields.io/badge/DAML-111111?style=for-the-badge" alt="DAML" />
-	</p>
-	<p>
-		<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-		<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-		<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-		<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-		<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-		<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-		<img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-		<img src="https://img.shields.io/badge/WordPress-26596F?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-	</p>
-	<p>
-		<img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-		<img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=F7A017" alt="MySQL" />
-		<img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-		<img src="https://img.shields.io/badge/Redis-333333?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
-		<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-		<img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-		<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-		<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-		<img src="https://img.shields.io/badge/NGINX-333333?style=for-the-badge&logo=nginx&logoColor=009137" alt="NGINX" />
-	</p>
-	<p>
-		<img src="https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
-		<img src="https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning" />
-		<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-		<img src="https://img.shields.io/badge/Nostr-7B61FF?style=for-the-badge&logo=nostr&logoColor=white" alt="Nostr" />
-		<img src="https://img.shields.io/badge/LNbits-111111?style=for-the-badge" alt="LNbits" />
-		<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
-		<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-		<img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-		<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-		<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-	</p>
+  <p>
+    <sub><strong>LANGUAGES</strong></sub><br/>
+    <img src="https://img.shields.io/badge/TypeScript-27384B?style=for-the-badge&logo=typescript&logoColor=6DBBFF" alt="TypeScript" height="32" />
+    <img src="https://img.shields.io/badge/JavaScript-27384B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="32" />
+    <img src="https://img.shields.io/badge/Python-27384B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" height="32" />
+    <img src="https://img.shields.io/badge/PHP-27384B?style=for-the-badge&logo=php&logoColor=B9BCE8" alt="PHP" height="32" />
+    <img src="https://img.shields.io/badge/C%23-27384B?style=for-the-badge&logo=csharp&logoColor=C69BFF" alt="C#" height="32" />
+    <br/><br/>
+    <img src="https://img.shields.io/badge/C-27384B?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" height="32" />
+    <img src="https://img.shields.io/badge/C%2B%2B-27384B?style=for-the-badge&logo=cplusplus&logoColor=8CB8E8" alt="C++" height="32" />
+    <img src="https://img.shields.io/badge/Java-27384B?style=for-the-badge&logo=openjdk&logoColor=FFAE52" alt="Java" height="32" />
+    <img src="https://img.shields.io/badge/Solidity-27384B?style=for-the-badge&logo=solidity&logoColor=D1D6DD" alt="Solidity" height="32" />
+    <img src="https://img.shields.io/badge/DAML-27384B?style=for-the-badge" alt="DAML" height="32" />
+  </p>
+  <p>
+    <sub><strong>FRAMEWORKS & PLATFORMS</strong></sub><br/>
+    <img src="https://img.shields.io/badge/React-254345?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="32" />
+    <img src="https://img.shields.io/badge/React_Native-254345?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="32" />
+    <img src="https://img.shields.io/badge/Next.js-254345?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" height="32" />
+    <img src="https://img.shields.io/badge/Node.js-254345?style=for-the-badge&logo=nodedotjs&logoColor=9AD15B" alt="Node.js" height="32" />
+    <img src="https://img.shields.io/badge/.NET-254345?style=for-the-badge&logo=dotnet&logoColor=C6A9FF" alt=".NET" height="32" />
+    <img src="https://img.shields.io/badge/Astro-254345?style=for-the-badge&logo=astro&logoColor=FF957A" alt="Astro" height="32" />
+    <img src="https://img.shields.io/badge/Laravel-254345?style=for-the-badge&logo=laravel&logoColor=FF756B" alt="Laravel" height="32" />
+    <img src="https://img.shields.io/badge/WordPress-254345?style=for-the-badge&logo=wordpress&logoColor=8AC8E8" alt="WordPress" height="32" />
+  </p>
+  <p>
+    <sub><strong>DATA & INFRASTRUCTURE</strong></sub><br/>
+    <img src="https://img.shields.io/badge/PostgreSQL-333F49?style=for-the-badge&logo=postgresql&logoColor=8CB6FF" alt="PostgreSQL" height="32" />
+    <img src="https://img.shields.io/badge/MySQL-333F49?style=for-the-badge&logo=mysql&logoColor=FFB45E" alt="MySQL" height="32" />
+    <img src="https://img.shields.io/badge/MongoDB-333F49?style=for-the-badge&logo=mongodb&logoColor=70D08B" alt="MongoDB" height="32" />
+    <img src="https://img.shields.io/badge/Redis-333F49?style=for-the-badge&logo=redis&logoColor=FF7676" alt="Redis" height="32" />
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Firebase-333F49?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" height="32" />
+    <img src="https://img.shields.io/badge/Docker-333F49?style=for-the-badge&logo=docker&logoColor=66C4F4" alt="Docker" height="32" />
+    <img src="https://img.shields.io/badge/Linux-333F49?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" height="32" />
+    <img src="https://img.shields.io/badge/PowerShell-333F49?style=for-the-badge&logo=powershell&logoColor=8DC4FF" alt="PowerShell" height="32" />
+    <img src="https://img.shields.io/badge/NGINX-333F49?style=for-the-badge&logo=nginx&logoColor=6BD58D" alt="NGINX" height="32" />
+  </p>
+  <p>
+    <sub><strong>PROTOCOLS & PAYMENTS</strong></sub><br/>
+    <img src="https://img.shields.io/badge/Bitcoin-3A344A?style=for-the-badge&logo=bitcoin&logoColor=FFB340" alt="Bitcoin" height="32" />
+    <img src="https://img.shields.io/badge/Lightning-3A344A?style=for-the-badge&logo=lightning&logoColor=C69BFF" alt="Lightning" height="32" />
+    <img src="https://img.shields.io/badge/Ethereum-3A344A?style=for-the-badge&logo=ethereum&logoColor=C4C8FF" alt="Ethereum" height="32" />
+    <img src="https://img.shields.io/badge/Nostr-3A344A?style=for-the-badge&logo=nostr&logoColor=C0A4FF" alt="Nostr" height="32" />
+    <img src="https://img.shields.io/badge/LNbits-3A344A?style=for-the-badge" alt="LNbits" height="32" />
+    <img src="https://img.shields.io/badge/Hardhat-3A344A?style=for-the-badge&logo=hardhat&logoColor=FFF100" alt="Hardhat" height="32" />
+  </p>
+  <p>
+    <sub><strong>AI TOOLS</strong></sub><br/>
+    <img src="https://img.shields.io/badge/OpenAI-383546?style=for-the-badge&logo=openai&logoColor=B5E8D1" alt="OpenAI" height="32" />
+    <img src="https://img.shields.io/badge/Codex-383546?style=for-the-badge&logo=openai&logoColor=B5E8D1" alt="Codex" height="32" />
+    <img src="https://img.shields.io/badge/Claude-383546?style=for-the-badge&logo=anthropic&logoColor=E7A588" alt="Claude" height="32" />
+    <img src="https://img.shields.io/badge/Gemini-383546?style=for-the-badge&logo=googlegemini&logoColor=C8B8FF" alt="Gemini" height="32" />
+  </p>
 </div>
