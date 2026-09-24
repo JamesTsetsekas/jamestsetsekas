@@ -6,19 +6,19 @@
 	</p>
 	<p>
 		<a href="https://jamestsetsekas.com/">
-			<img src="https://img.shields.io/badge/Portfolio-4D4D4D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+			<img src="https://img.shields.io/badge/Portfolio-2B3A40?style=for-the-badge&logo=googlechrome&logoColor=9ADFEA" alt="Portfolio" />
 		</a>
 		<a href="https://blog.jamestsetsekas.com/">
-			<img src="https://img.shields.io/badge/Blog-FF9900?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
+			<img src="https://img.shields.io/badge/Blog-2B3A40?style=for-the-badge&logo=rss&logoColor=9ADFEA" alt="Blog" />
 		</a>
 		<a href="https://www.linkedin.com/in/jamestsetsekas/">
-			<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+			<img src="https://img.shields.io/badge/LinkedIn-2B3A40?style=for-the-badge&logo=linkedin&logoColor=9ADFEA" alt="LinkedIn" />
 		</a>
 		<a href="mailto:james@jamestsetsekas.com">
-			<img src="https://img.shields.io/badge/Email-4D4D4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+			<img src="https://img.shields.io/badge/Email-2B3A40?style=for-the-badge&logo=gmail&logoColor=9ADFEA" alt="Email" />
 		</a>
 		<a href="#zap-me-some-sats">
-			<img src="https://img.shields.io/badge/Zap_sats-9A4D12?style=for-the-badge&logo=lightning&logoColor=FFD166" alt="Zap sats" />
+			<img src="https://img.shields.io/badge/Zap_sats-2B3A40?style=for-the-badge&logo=lightning&logoColor=FFD166" alt="Zap sats" />
 		</a>
 	</p>
 </div>
