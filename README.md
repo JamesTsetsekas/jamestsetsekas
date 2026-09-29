@@ -77,8 +77,8 @@
     <img src="https://img.shields.io/badge/JavaScript-27384B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="32" />
     <img src="https://img.shields.io/badge/Python-27384B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" height="32" />
     <img src="https://img.shields.io/badge/PHP-27384B?style=for-the-badge&logo=php&logoColor=B9BCE8" alt="PHP" height="32" />
-    <img src="https://img.shields.io/badge/C%23-27384B?style=for-the-badge&logo=csharp&logoColor=C69BFF" alt="C#" height="32" />
-    <img src="https://img.shields.io/badge/SQL-27384B?style=for-the-badge" alt="SQL" height="32" />
+    <img src="https://img.shields.io/badge/C%23-27384B?style=for-the-badge&logo=dotnet&logoColor=C69BFF" alt="C#" height="32" />
+    <img src="https://img.shields.io/badge/SQL-27384B?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL" height="32" />
     <br/><br/>
     <img src="https://img.shields.io/badge/C-27384B?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" height="32" />
     <img src="https://img.shields.io/badge/C%2B%2B-27384B?style=for-the-badge&logo=cplusplus&logoColor=8CB8E8" alt="C++" height="32" />
@@ -118,8 +118,8 @@
   </p>
   <p>
     <sub><strong>CLOUD</strong></sub><br/>
-    <img src="https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge" alt="AWS" height="32" />
-    <img src="https://img.shields.io/badge/Azure-2C3E50?style=for-the-badge" alt="Microsoft Azure" height="32" />
+    <img src="https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge&logo=amazonaws&logoColor=FFB340" alt="AWS" height="32" />
+    <img src="https://img.shields.io/badge/Azure-2C3E50?style=for-the-badge&logo=microsoftazure&logoColor=68B8FF" alt="Microsoft Azure" height="32" />
     <img src="https://img.shields.io/badge/Google_Cloud-2C3E50?style=for-the-badge&logo=googlecloud&logoColor=9FC8FF" alt="Google Cloud" height="32" />
     <img src="https://img.shields.io/badge/Firebase-2C3E50?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" height="32" />
   </p>
@@ -130,8 +130,8 @@
     <img src="https://img.shields.io/badge/Ethereum-3A344A?style=for-the-badge&logo=ethereum&logoColor=C4C8FF" alt="Ethereum" height="32" />
     <img src="https://img.shields.io/badge/Nostr-3A344A?style=for-the-badge&logo=nostr&logoColor=C0A4FF" alt="Nostr" height="32" />
     <br/><br/>
-    <img src="https://img.shields.io/badge/LNbits-3A344A?style=for-the-badge" alt="LNbits" height="32" />
-    <img src="https://img.shields.io/badge/BTCPay_Server-3A344A?style=for-the-badge" alt="BTCPay Server" height="32" />
+    <img src="https://img.shields.io/badge/LNbits-3A344A?style=for-the-badge&logo=lightning&logoColor=C69BFF" alt="LNbits" height="32" />
+    <img src="https://img.shields.io/badge/BTCPay_Server-3A344A?style=for-the-badge&logo=bitcoin&logoColor=FFB340" alt="BTCPay Server" height="32" />
     <img src="https://img.shields.io/badge/Hardhat-3A344A?style=for-the-badge&logo=hardhat&logoColor=FFF100" alt="Hardhat" height="32" />
   </p>
   <p>
@@ -140,6 +140,10 @@
     <img src="https://img.shields.io/badge/Codex-383546?style=for-the-badge&logo=openai&logoColor=B5E8D1" alt="Codex" height="32" />
     <img src="https://img.shields.io/badge/Claude-383546?style=for-the-badge&logo=anthropic&logoColor=E7A588" alt="Claude" height="32" />
     <img src="https://img.shields.io/badge/Gemini-383546?style=for-the-badge&logo=googlegemini&logoColor=C8B8FF" alt="Gemini" height="32" />
+    <br/><br/>
+    <img src="https://img.shields.io/badge/OpenClaw-383546?style=for-the-badge" alt="OpenClaw" height="32" />
+    <img src="https://img.shields.io/badge/Hermes_Agent-383546?style=for-the-badge" alt="Hermes Agent" height="32" />
+    <img src="https://img.shields.io/badge/n8n-383546?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" height="32" />
   </p>
 </div>
 
