@@ -36,7 +36,7 @@
   <text id="updated-at" x="848" y="47" text-anchor="end" fill="#91afa9" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.1">REFRESHED · SEP 29, 2026</text>
 
   <text x="40" y="92" fill="#91afa9" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.1">LIFETIME TOKENS</text>
-  <text id="lifetime-count" x="35" y="180" fill="url(#signal)" font-family="Segoe UI, Arial, sans-serif" font-size="91" font-weight="750" letter-spacing="-5">41.8B</text>
+  <text id="lifetime-count" x="35" y="180" fill="url(#signal)" font-family="Segoe UI, Arial, sans-serif" font-size="91" font-weight="750" letter-spacing="-5">42B</text>
   <text x="42" y="207" fill="#a9c3be" font-family="Segoe UI, Arial, sans-serif" font-size="13">Ideas explored. Code shipped. Still building.</text>
 
   <path d="M548 75v132" stroke="#35545a"/>
