@@ -33,7 +33,7 @@
 
 | Organization | Role | Focus |
 | --- | --- | --- |
-| [Great Plains Communications](https://gpcom.com/) / [Rightfiber](https://www.rightfiber.com/) | Web & Digital Experience Developer | Building React applications and customer-facing journeys for the Rightfiber web experience. |
+| [RightFiber](https://www.rightfiber.com/) | Web & Digital Experience Developer | Building React applications and customer-facing journeys for the RightFiber web experience. |
 | [Conduit](https://conduit.market/) | Product Engineer | Building marketplace and merchant experiences for open-source commerce on Nostr with Bitcoin and Lightning. |
 
 ## Earlier Product Work
