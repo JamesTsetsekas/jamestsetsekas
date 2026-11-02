@@ -25,7 +25,11 @@
 
 <div align="center">
 	<a href="https://github.com/JamesTsetsekas/codex-activity-card">
-		<img src="./assets/codex-activity.svg" alt="Codex activity card showing lifetime tokens, current streak, and peak daily tokens." width="880" />
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="./assets/codex/codex-minimal-dark.svg" />
+			<source media="(prefers-color-scheme: light)" srcset="./assets/codex/codex-minimal-light.svg" />
+			<img src="./assets/codex-activity.svg" alt="Codex activity card showing lifetime tokens, current streak, and peak daily tokens." width="640" />
+		</picture>
 	</a>
 </div>
 
