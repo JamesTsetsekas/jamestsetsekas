@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="54" viewBox="0 0 640 54" role="img" aria-labelledby="title description">
 <title id="title">Codex activity</title>
-<desc id="description">Codex account aggregate: 69,721,372,033 lifetime tokens; current streak 58 days; peak daily tokens 2,506,421,660. Card updated after a successful account check at 2026-11-04T03:17:01.932Z; source data timestamp unavailable. Hourly checks.</desc>
-  <metadata id="codex-activity-card" data-updated-at="2026-11-04T03:17:01.932Z"/>
+<desc id="description">Codex account aggregate: 70,218,142,520 lifetime tokens; current streak 58 days; peak daily tokens 2,506,421,660. Card updated after a successful account check at 2026-11-04T09:17:01.828Z; source data timestamp unavailable. Hourly checks.</desc>
+  <metadata id="codex-activity-card" data-updated-at="2026-11-04T09:17:01.828Z"/>
 
 <g transform="translate(18 15)"><rect x="-4" y="-4" width="32" height="32" rx="8" fill="#ffffff"/><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M16.0005 13.5992C16.4972 13.5995 16.9007 14.0029 16.9009 14.4996C16.9009 14.9965 16.4974 15.3997 16.0005 15.4H13.0005C12.5035 15.4 12.1002 14.9967 12.1002 14.4996C12.1004 14.0027 12.5036 13.5992 13.0005 13.5992H16.0005Z" fill="#0D0D0D"/>
@@ -10,7 +10,7 @@
 </svg></g>
 <text x="54" y="32" fill="#1f2328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start">Codex</text>
 <path d="M116 14V40" stroke="#d1d9e0"/>
-<text id="lifetime-count" x="134" y="32" fill="#1f2328" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="400" text-anchor="start">69.7B tokens</text>
+<text id="lifetime-count" x="134" y="32" fill="#1f2328" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="400" text-anchor="start">70.2B tokens</text>
 <text id="streak-count" x="314" y="32" fill="#1f2328" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="400" text-anchor="start">58d streak</text>
 <text id="peak-count" x="622" y="32" fill="#1f2328" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="400" text-anchor="end">2.5B peak</text>
 </svg>
