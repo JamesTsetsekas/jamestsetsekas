@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="256" viewBox="0 0 640 256" role="img" aria-labelledby="title description">
 <title id="title">Codex activity</title>
-<desc id="description">Codex account aggregate: 70,778,561,800 lifetime tokens; current streak 59 days; peak daily tokens 2,506,421,660. Card updated after a successful account check at 2026-11-05T08:17:02.006Z; source data timestamp unavailable. Hourly checks.</desc>
-  <metadata id="codex-activity-card" data-updated-at="2026-11-05T08:17:02.006Z"/>
+<desc id="description">Codex account aggregate: 70,876,627,935 lifetime tokens; current streak 60 days; peak daily tokens 2,506,421,660. Card updated after a successful account check at 2026-11-05T14:17:02.175Z; source data timestamp unavailable. Hourly checks.</desc>
+  <metadata id="codex-activity-card" data-updated-at="2026-11-05T14:17:02.175Z"/>
 
 <g transform="translate(28 24)"><rect x="-4" y="-4" width="32" height="32" rx="8" fill="#ffffff"/><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M16.0005 13.5992C16.4972 13.5995 16.9007 14.0029 16.9009 14.4996C16.9009 14.9965 16.4974 15.3997 16.0005 15.4H13.0005C12.5035 15.4 12.1002 14.9967 12.1002 14.4996C12.1004 14.0027 12.5036 13.5992 13.0005 13.5992H16.0005Z" fill="#0D0D0D"/>
@@ -11,12 +11,12 @@
 <text x="68" y="42" fill="#f0f3f6" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18" font-weight="600" text-anchor="start">codex / activity</text>
 <text x="28" y="82" fill="#9198a1" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="400" text-anchor="start">&gt; account usage</text>
 <text x="28" y="117" fill="#9198a1" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15" font-weight="400" text-anchor="start">lifetime tokens</text>
-<text id="lifetime-count" x="612" y="117" fill="#f0f3f6" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="19" font-weight="500" text-anchor="end">70.8B</text>
+<text id="lifetime-count" x="612" y="117" fill="#f0f3f6" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="19" font-weight="500" text-anchor="end">70.9B</text>
 <text x="28" y="151" fill="#9198a1" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15" font-weight="400" text-anchor="start">current streak</text>
-<text id="streak-count" x="612" y="151" fill="#f0f3f6" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="19" font-weight="500" text-anchor="end">59 days</text>
+<text id="streak-count" x="612" y="151" fill="#f0f3f6" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="19" font-weight="500" text-anchor="end">60 days</text>
 <text x="28" y="185" fill="#9198a1" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15" font-weight="400" text-anchor="start">peak daily tokens</text>
 <text id="peak-count" x="612" y="185" fill="#f0f3f6" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="19" font-weight="500" text-anchor="end">2.5B</text>
 <path d="M28 213H612" stroke="#3d444d"/>
-<text id="updated-at" x="28" y="236" fill="#9198a1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Updated Nov 05, 2026 · 08:17 UTC</text>
+<text id="updated-at" x="28" y="236" fill="#9198a1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Updated Nov 05, 2026 · 14:17 UTC</text>
 <text id="refresh-state" x="612" y="236" fill="#9198a1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="end">Hourly checks</text>
 </svg>
