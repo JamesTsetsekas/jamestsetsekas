@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="242" viewBox="0 0 640 242" role="img" aria-labelledby="title description">
 <title id="title">Codex activity</title>
-<desc id="description">Codex account aggregate: 72,747,878,992 lifetime tokens; current streak 65 days; peak daily tokens 2,506,421,660. Card updated after a successful account check at 2026-11-11T09:17:01.504Z; source data timestamp unavailable. Hourly checks.</desc>
-  <metadata id="codex-activity-card" data-updated-at="2026-11-11T09:17:01.504Z"/>
+<desc id="description">Codex account aggregate: 72,993,574,408 lifetime tokens; current streak 66 days; peak daily tokens 2,506,421,660. Card updated after a successful account check at 2026-11-11T20:17:01.460Z; source data timestamp unavailable. Hourly checks.</desc>
+  <metadata id="codex-activity-card" data-updated-at="2026-11-11T20:17:01.460Z"/>
 
 <g transform="translate(28 24)"><rect x="-4" y="-4" width="32" height="32" rx="8" fill="#ffffff"/><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M16.0005 13.5992C16.4972 13.5995 16.9007 14.0029 16.9009 14.4996C16.9009 14.9965 16.4974 15.3997 16.0005 15.4H13.0005C12.5035 15.4 12.1002 14.9967 12.1002 14.4996C12.1004 14.0027 12.5036 13.5992 13.0005 13.5992H16.0005Z" fill="#0D0D0D"/>
@@ -10,13 +10,13 @@
 </svg></g>
 <text x="68" y="42" fill="#1f2328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" text-anchor="start">Codex activity</text>
 <text x="28" y="96" fill="#59636e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" text-anchor="start">Lifetime tokens</text>
-<text id="lifetime-count" x="25" y="158" fill="#1f2328" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="58" font-weight="600" text-anchor="start">72.7B</text>
+<text id="lifetime-count" x="25" y="158" fill="#1f2328" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="58" font-weight="600" text-anchor="start">73B</text>
 <path d="M372 80V180" stroke="#d1d9e0"/>
 <text x="396" y="94" fill="#59636e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Current streak</text>
-<text id="streak-count" x="396" y="124" fill="#1f2328" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="26" font-weight="500" text-anchor="start">65 days</text>
+<text id="streak-count" x="396" y="124" fill="#1f2328" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="26" font-weight="500" text-anchor="start">66 days</text>
 <text x="396" y="157" fill="#59636e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Peak daily tokens</text>
 <text id="peak-count" x="396" y="185" fill="#1f2328" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="26" font-weight="500" text-anchor="start">2.5B</text>
 <path d="M28 199H612" stroke="#d1d9e0"/>
-<text id="updated-at" x="28" y="222" fill="#59636e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Updated Nov 11, 2026 · 09:17 UTC</text>
+<text id="updated-at" x="28" y="222" fill="#59636e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start">Updated Nov 11, 2026 · 20:17 UTC</text>
 <text id="refresh-state" x="612" y="222" fill="#59636e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="end">Hourly checks</text>
 </svg>
